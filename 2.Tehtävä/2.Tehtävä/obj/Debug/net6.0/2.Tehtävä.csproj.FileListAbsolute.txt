@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\bin\Debug\net6.0\2.Tehtävä.exe
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\bin\Debug\net6.0\2.Tehtävä.deps.json
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\bin\Debug\net6.0\2.Tehtävä.runtimeconfig.json
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\bin\Debug\net6.0\2.Tehtävä.dll
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\bin\Debug\net6.0\ref\2.Tehtävä.dll
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\bin\Debug\net6.0\2.Tehtävä.pdb
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.AssemblyInfo.cs
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.dll
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\ref\2.Tehtävä.dll
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.pdb
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.genruntimeconfig.cache
+C:\Users\janne\source\repos\2.Tehtävä\2.Tehtävä\obj\Debug\net6.0\2.Tehtävä.csproj.AssemblyReference.cache
