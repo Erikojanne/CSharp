@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\bin\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.exe
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\bin\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.deps.json
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\bin\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\bin\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.dll
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\bin\Debug\net6.0\ref\Tehtövö 7.2 lukujen laskenta.dll
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\bin\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.pdb
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.dll
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\ref\Tehtövö 7.2 lukujen laskenta.dll
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.pdb
+C:\Users\janne\source\repos\Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta\obj\Debug\net6.0\Tehtövö 7.2 lukujen laskenta.genruntimeconfig.cache

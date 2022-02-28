@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtövö 7.2 lukujen laskenta", "Tehtövö 7.2 lukujen laskenta\Tehtövö 7.2 lukujen laskenta.csproj", "{BB498B6D-7B0F-49D0-B652-A45682D49090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB498B6D-7B0F-49D0-B652-A45682D49090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB498B6D-7B0F-49D0-B652-A45682D49090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB498B6D-7B0F-49D0-B652-A45682D49090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB498B6D-7B0F-49D0-B652-A45682D49090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1E8B7D5-9D6B-4089-BDF0-14CE0D48B58A}
+	EndGlobalSection
+EndGlobal
