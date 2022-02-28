@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä 7.1 Lukujen tulostus", "Tehtävä 7.1 Lukujen tulostus\Tehtävä 7.1 Lukujen tulostus.csproj", "{FDBA53A2-16B6-4DA1-8C4E-0E71BD396F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBA53A2-16B6-4DA1-8C4E-0E71BD396F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBA53A2-16B6-4DA1-8C4E-0E71BD396F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBA53A2-16B6-4DA1-8C4E-0E71BD396F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBA53A2-16B6-4DA1-8C4E-0E71BD396F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34280A8-1B15-44FC-98C9-B8EFC21DCEF0}
+	EndGlobalSection
+EndGlobal
