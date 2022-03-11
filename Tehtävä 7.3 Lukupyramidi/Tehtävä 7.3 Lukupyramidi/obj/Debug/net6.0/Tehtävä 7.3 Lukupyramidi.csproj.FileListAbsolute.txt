@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\bin\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.exe
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\bin\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.deps.json
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\bin\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\bin\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.dll
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\bin\Debug\net6.0\ref\Tehtävä 7.3 Lukupyramidi.dll
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\bin\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.pdb
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.dll
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\ref\Tehtävä 7.3 Lukupyramidi.dll
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.pdb
+C:\Users\janne\source\repos\Tehtävä 7.3 Lukupyramidi\Tehtävä 7.3 Lukupyramidi\obj\Debug\net6.0\Tehtävä 7.3 Lukupyramidi.genruntimeconfig.cache
