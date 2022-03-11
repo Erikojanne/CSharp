@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\bin\Debug\net6.0\Tehtävä 7.4 Arvonta.exe
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\bin\Debug\net6.0\Tehtävä 7.4 Arvonta.deps.json
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\bin\Debug\net6.0\Tehtävä 7.4 Arvonta.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\bin\Debug\net6.0\Tehtävä 7.4 Arvonta.dll
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\bin\Debug\net6.0\ref\Tehtävä 7.4 Arvonta.dll
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\bin\Debug\net6.0\Tehtävä 7.4 Arvonta.pdb
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.dll
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\ref\Tehtävä 7.4 Arvonta.dll
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.pdb
+C:\Users\janne\source\repos\Tehtävä 7.4 Arvonta\Tehtävä 7.4 Arvonta\obj\Debug\net6.0\Tehtävä 7.4 Arvonta.genruntimeconfig.cache
