@@ -1,0 +1,32 @@
+Console.WriteLine("Tehtävä 10 vaihe 2 ");
+Console.WriteLine("--------------------------");
+Console.WriteLine();
+
+Random satluku = new Random();
+
+int arvottuluku = satluku.Next(1, 13);
+
+int i = 0;
+
+int arvaus;
+
+Console.WriteLine("Arvaa arvottu luku väliltä 1-12 (lopetus L-merkillä)");
+Console.WriteLine();
+
+
+
+while (arvottuluku < 12)
+{
+    i++;
+    Console.Write( i + " yritys: Arvaa luku ? ");
+    arvaus = int.Parse(Console.ReadLine());
+    Console.WriteLine();
+
+    if (arvaus == arvottuluku)
+    {
+        Console.WriteLine("Onneksi olkoon, arvasit oikein !!! ");
+        i = 5;
+        //Console.WriteLine("Oikea vastaus on " + arvottuluku);
+    }
+    else 
+}
