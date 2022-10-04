@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\bin\Debug\net6.0\Kirjasto.exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\bin\Debug\net6.0\Kirjasto.deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\bin\Debug\net6.0\Kirjasto.runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\bin\Debug\net6.0\Kirjasto.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\bin\Debug\net6.0\Kirjasto.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\refint\Kirjasto.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\Kirjasto.genruntimeconfig.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Kirjasto\Kirjasto\obj\Debug\net6.0\ref\Kirjasto.dll
