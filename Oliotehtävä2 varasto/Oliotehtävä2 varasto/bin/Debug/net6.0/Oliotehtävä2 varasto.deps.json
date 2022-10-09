@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Oliotehtävä2 varasto/1.0.0": {
+        "runtime": {
+          "Oliotehtävä2 varasto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oliotehtävä2 varasto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
