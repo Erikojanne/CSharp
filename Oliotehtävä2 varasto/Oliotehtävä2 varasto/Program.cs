@@ -22,9 +22,6 @@ class Varasto
     public string painonmuutos()
 
     {
-
-        Console.WriteLine(" Erapaiva metodi ");
-
         return paino;
 
     }
@@ -33,31 +30,27 @@ class Varasto
 
     {
 
-        Console.WriteLine(" Nimi metodi ");
-
         return nimi;
-
     }
 
     public int maaramuutos()
 
     {
 
-        Console.WriteLine(" Sivumäärä metodi ");
-
         return maara;
 
     }
     public int poishyllysta()
     {
-        Console.WriteLine(" Sivumäärä metodi ");
+       
         return eihyllyssa;
     }
     public int palautahyllyyn()
     {
-        Console.WriteLine(" Sivumäärä metodi ");
+        
         return hyllyssa;
     }
+   
 
     //Oletuskonstruktori
 
@@ -131,10 +124,6 @@ class Varasto
     }
     
     
-
-
-
-
 }
 
 
@@ -147,58 +136,56 @@ class Program
         
     {
         
-        //luodaan erapaiva-olio
+        //luodaan olio
 
-        //luodaan sivumaara-olio
+        //luodaan olio
 
-        //luodaan nimi-olio
+        //luodaan olio
 
-        int maara, hyllyssa, eihyllyssa;
-        string nimi, paino;
+        int u_maara, u_hyllyssa, u_eihyllyssa;
+        string u_nimi, u_paino;
         
 
 
         Console.Write("Anna paino: ");
 
-        paino = Console.ReadLine();
+        u_paino = Console.ReadLine();
 
         Console.Write("Anna määrä: ");
 
-        maara = int.Parse(Console.ReadLine());
+        u_maara = int.Parse(Console.ReadLine());
 
         Console.Write("Anna nimi: ");
 
-        nimi = Console.ReadLine();
+        u_nimi = Console.ReadLine();
 
         Console.Write("Anna hylly määrä: ");
 
-        hyllyssa = int.Parse(Console.ReadLine());
+        u_hyllyssa = int.Parse(Console.ReadLine());
         Console.Write("Pois hyllystä: ");
 
-        eihyllyssa = int.Parse(Console.ReadLine());
+        u_eihyllyssa = int.Parse(Console.ReadLine());
 
         Console.WriteLine();
 
 
 
-        Varasto tallenne = new Varasto(paino, maara, nimi, hyllyssa, eihyllyssa);
+        Varasto tallenne = new Varasto(u_paino, u_maara, u_nimi, u_hyllyssa, u_eihyllyssa);
 
-        paino = tallenne.painonmuutos();
+        u_paino = tallenne.painonmuutos();
 
-        maara = tallenne.maaramuutos();
+        u_maara = tallenne.maaramuutos();
 
-        nimi = tallenne.nimenmuutos();
-        hyllyssa = tallenne.palautahyllyyn();
-        eihyllyssa = tallenne.poishyllysta();
-
+        u_nimi = tallenne.nimenmuutos();
+        u_hyllyssa = tallenne.palautahyllyyn();
+        u_eihyllyssa = tallenne.poishyllysta();
+      
 
         Console.WriteLine();
+        
+        Console.WriteLine("Paino: " + u_paino +  " / Määrä: " + u_maara + " / Nimi: " + u_nimi + " / Hyllyssä: " + u_hyllyssa +  " / Eihyllyssä: " + u_eihyllyssa + " / Jotain: " + Varasto.Isolaskuri);
 
-
-
-        Console.WriteLine("Paino: " + paino + " / Määrä: " + maara + " / Nimi: " + nimi + " / Hyllyssä: " + hyllyssa +  " / Eihyllyssä: " + eihyllyssa);
-
-
+       // Console.WriteLine(+ Varasto.Isolaskuri);
 
     }
 
