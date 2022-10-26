@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Varasto2\Varasto2\bin\Debug\net6.0\Varasto2.exe
+C:\Users\janne\source\repos\Varasto2\Varasto2\bin\Debug\net6.0\Varasto2.deps.json
+C:\Users\janne\source\repos\Varasto2\Varasto2\bin\Debug\net6.0\Varasto2.runtimeconfig.json
+C:\Users\janne\source\repos\Varasto2\Varasto2\bin\Debug\net6.0\Varasto2.dll
+C:\Users\janne\source\repos\Varasto2\Varasto2\bin\Debug\net6.0\Varasto2.pdb
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.AssemblyInfo.cs
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.dll
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\refint\Varasto2.dll
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.pdb
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\Varasto2.genruntimeconfig.cache
+C:\Users\janne\source\repos\Varasto2\Varasto2\obj\Debug\net6.0\ref\Varasto2.dll
